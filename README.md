@@ -4,7 +4,7 @@
 
 
 New skills acquired in Data Science:
-Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, SQL
 
 My Repositories:
 
