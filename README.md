@@ -1,4 +1,5 @@
-- 👋 Hi, My name is Natalya, I'm experienced researcher in environmental sciences and remote sensing.
+- 👋 Hi, My name is Natalya.
+- 🌏 I'm a researcher in environmental sciences and remote sensing.
 - 👩‍🔬 Currently studying Data Science and Machine Learning.
 - 📫 Contact me [on telegram](https://t.me/feography)
 
@@ -8,7 +9,7 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, SQL
 
 My Repositories:
 
-[Учебные проекты ЯП](https://github.com/feography/Practicum_projects)
+[Yandex.Praktikum Data-Science Projects](https://github.com/feography/Practicum_projects)
 
 <!---
 feography/feography is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
