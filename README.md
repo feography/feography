@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Natalya.
-- 🌏 I'm a researcher in environmental sciences and remote sensing.
+- 🌏 I'm a researcher in environmental sciences, remote sensing and GIS.
 - 👩‍🔬 Currently studying Data Science and Machine Learning.
 - 📫 Contact me [on telegram](https://t.me/feography)
 
