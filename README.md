@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feography
-- 👀 I’m interested in data science, environmetnal science, remote sensing
+- 👀 I’m interested in data science, environmetnal science and remote sensing
 - 🌱 I’m currently learning data science
 - 📫 How to reach me [...](https://t.me/feography)
 
