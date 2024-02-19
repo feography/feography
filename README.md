@@ -8,8 +8,7 @@ Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 
 My Repositories:
 
-[Учебные проекты ЯП]https://github.com/feography/Practicum_projects
-
+[Учебные проекты ЯП](https://github.com/feography/Practicum_projects)
 
 <!---
 feography/feography is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
