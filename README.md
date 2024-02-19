@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @feography
-- 👀 I’m interested in data science, environmetnal science and remote sensing
-- 🌱 I’m currently learning data science
+- 👋 Hi, My name is Natalya, I'm experienced researcher in environmental sciences and remote sensing.
+- 👩‍🔬 Currently studying data science and machine learning.
 - 📫 How to reach me [...](https://t.me/feography)
 
 <!---
